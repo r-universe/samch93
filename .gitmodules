@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ciCalibrate"]
+	path = ciCalibrate
+	url = https://github.com/samch93/cicalibrate
+	shallow = true
+	registered = true
