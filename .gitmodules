@@ -13,3 +13,8 @@
 	url = https://github.com/samch93/cicalibrate
 	shallow = true
 	registered = true
+[submodule "ppRep"]
+	path = ppRep
+	url = https://github.com/samch93/pprep
+	shallow = true
+	registered = true
