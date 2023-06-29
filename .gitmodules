@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BayesRep"]
 	path = BayesRep
 	url = https://github.com/samch93/bayesrep
-	shallow = true
-	registered = true
 [submodule "BayesRepDesign"]
 	path = BayesRepDesign
 	url = https://github.com/samch93/bayesrepdesign
-	shallow = true
-	registered = true
 [submodule "ciCalibrate"]
 	path = ciCalibrate
 	url = https://github.com/samch93/cicalibrate
-	shallow = true
-	registered = true
 [submodule "ppRep"]
 	path = ppRep
 	url = https://github.com/samch93/pprep
-	shallow = true
-	registered = true
