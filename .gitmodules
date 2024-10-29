@@ -8,6 +8,9 @@
 [submodule "BayesRepDesign"]
 	path = BayesRepDesign
 	url = https://github.com/samch93/bayesrepdesign
+[submodule "bfpwr"]
+	path = bfpwr
+	url = https://github.com/cran/bfpwr
 [submodule "ciCalibrate"]
 	path = ciCalibrate
 	url = https://github.com/samch93/cicalibrate
