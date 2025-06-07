@@ -17,3 +17,6 @@
 [submodule "ppRep"]
 	path = ppRep
 	url = https://github.com/samch93/pprep
+[submodule "twotrials"]
+	path = twotrials
+	url = https://github.com/cran/twotrials
