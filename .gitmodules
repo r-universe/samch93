@@ -11,6 +11,9 @@
 [submodule "bfpwr"]
 	path = bfpwr
 	url = https://github.com/cran/bfpwr
+[submodule "brar"]
+	path = brar
+	url = https://github.com/cran/brar
 [submodule "ciCalibrate"]
 	path = ciCalibrate
 	url = https://github.com/samch93/cicalibrate
